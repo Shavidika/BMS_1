@@ -265,7 +265,7 @@ int main()
     case 1:
         owner();
         cout << endl;
-        cout << name << " your data has been recorded....." << endl;
+        cout << name << " your data has been recorded..........." << endl;
         break;
     case 2:
         finder();
